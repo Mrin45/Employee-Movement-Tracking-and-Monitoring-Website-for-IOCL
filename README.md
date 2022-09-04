@@ -1,5 +1,4 @@
 # Employee-Movement-Tracking-and-Monitoring-Website-for-IOCL
-A website was built which can be used to monitor the persons in and out of IOCL dept. as part of security measure. This also provides the service to track the movement of persons.
 Information System Department of Guwahati Refinery is ISO 27001:2013 Certified. "IOCL Employee Movement Tracking System" is a website implementing a password-based authentication as part of the security measure for IOCL. The authentication system is implemented in the office door of each department of IOCL Guwahati Refinery. To enter into an office room of each department, each and every employee has to provide their ID no. and password to unlock the office door. The same has to be provided when the employee wants to exit the office room. 
 
 The movement of each person in and out of department premise can be monitored via the security admin panel in a dashboard. The movement of each employee can be tracked and recorded safely.

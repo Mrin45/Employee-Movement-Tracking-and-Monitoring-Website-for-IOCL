@@ -16,7 +16,7 @@ The movement of each person in and out of department premise can be monitored vi
 
 ![2iocl](https://user-images.githubusercontent.com/86364520/188308432-0d3c9016-2ac6-4372-bdd4-5164c8fa8dfa.jpg)
 
-![exit_confirmation](https://user-images.githubusercontent.com/77850791/131459981-71eb9bee-98bb-493b-b5a9-04f5bcc06dfe.png)
+![3iocl](https://user-images.githubusercontent.com/86364520/188308489-4bd2afca-1172-4aa9-99a4-3748bc5a7901.jpg)
 
 ![admin_login](https://user-images.githubusercontent.com/77850791/131459916-a73fe56b-04b7-414a-9977-b71dba8df039.png)
 

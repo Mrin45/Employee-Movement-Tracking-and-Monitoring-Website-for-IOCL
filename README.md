@@ -12,7 +12,7 @@ The movement of each person in and out of department premise can be monitored vi
 ![entry_page](https://user-images.githubusercontent.com/77850791/131459976-b68b58b2-fcaa-4f23-86e2-7e92cfa75608.png)
 
 
-![entry_confirmation](https://user-images.githubusercontent.com/77850791/131459970-cf125228-f2f4-44ee-b4c8-e8857b6d8709.png)
+![1iocl](https://user-images.githubusercontent.com/86364520/188308343-deab43fd-e641-44d9-a13b-009b631af875.jpg)
 
 ![exit_page](https://user-images.githubusercontent.com/77850791/131460021-6efb03f2-45ff-4f41-83a9-b08e37328a38.png)
 
